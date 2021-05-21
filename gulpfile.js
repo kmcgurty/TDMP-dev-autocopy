@@ -5,6 +5,8 @@ const fs = require('fs');
 let fromPath = "C:/Users/Kmc/source/repos/TDMP";
 let toPath = "D:/Steam Games/steamapps/common/Teardown";
 
+//-------------------------------------------------------
+
 let tdmp = fromPath + "/TDMP/build/debug/**/*";
 let loader = fromPath + "/TDMPLoader/build/debug/**/*";
 
